@@ -1,4 +1,7 @@
-﻿using ReactiveXml.Internal;
+﻿// ReactiveXml
+// Copyright (c) 2014, Piotr Gwiazdowski <gwiazdorrr+github at gmail.com>
+
+using ReactiveXml.Internal;
 using System;
 using System.Collections;
 using System.Collections.Generic;
